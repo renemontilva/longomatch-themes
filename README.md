@@ -1,1 +1,1 @@
-# longomatch-university-themes
+# longomatch-themes
